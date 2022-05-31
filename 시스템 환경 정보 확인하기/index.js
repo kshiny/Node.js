@@ -23,7 +23,3 @@ console.log("==============");
 
 console.log(process.versions); // Node.js에 종속된 프로그램의 버전 정보를 가진 객체
 console.log("==============");
-
-
-
-
